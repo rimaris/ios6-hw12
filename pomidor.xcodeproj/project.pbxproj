@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6F27CAC12846791D00413C45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAC02846791D00413C45 /* AppDelegate.swift */; };
-		6F27CAC32846791D00413C45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAC22846791D00413C45 /* SceneDelegate.swift */; };
-		6F27CAC52846791D00413C45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAC42846791D00413C45 /* ViewController.swift */; };
-		6F27CAC82846791D00413C45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CAC62846791D00413C45 /* Main.storyboard */; };
-		6F27CACA2846791F00413C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CAC92846791F00413C45 /* Assets.xcassets */; };
-		6F27CACD2846791F00413C45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CACB2846791F00413C45 /* LaunchScreen.storyboard */; };
+		6F27CAA12840CC4B00413C45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAA02840CC4B00413C45 /* AppDelegate.swift */; };
+		6F27CAA32840CC4B00413C45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAA22840CC4B00413C45 /* SceneDelegate.swift */; };
+		6F27CAA52840CC4B00413C45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F27CAA42840CC4B00413C45 /* ViewController.swift */; };
+		6F27CAA82840CC4B00413C45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CAA62840CC4B00413C45 /* Main.storyboard */; };
+		6F27CAAA2840CC4D00413C45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CAA92840CC4D00413C45 /* Assets.xcassets */; };
+		6F27CAAD2840CC4D00413C45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CAAB2840CC4D00413C45 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6F27CABD2846791D00413C45 /* iOS6-HW12-Solodova-Mariya.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS6-HW12-Solodova-Mariya.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F27CAC02846791D00413C45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6F27CAC22846791D00413C45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6F27CAC42846791D00413C45 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		6F27CAC72846791D00413C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		6F27CAC92846791F00413C45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		6F27CACC2846791F00413C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		6F27CACE2846791F00413C45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F27CA9D2840CC4B00413C45 /* pomidor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pomidor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F27CAA02840CC4B00413C45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6F27CAA22840CC4B00413C45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		6F27CAA42840CC4B00413C45 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6F27CAA72840CC4B00413C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6F27CAA92840CC4D00413C45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6F27CAAC2840CC4D00413C45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6F27CAAE2840CC4D00413C45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6F27CABA2846791D00413C45 /* Frameworks */ = {
+		6F27CA9A2840CC4B00413C45 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6F27CAB42846791C00413C45 = {
+		6F27CA942840CC4B00413C45 = {
 			isa = PBXGroup;
 			children = (
-				6F27CABF2846791D00413C45 /* iOS6-HW12-Solodova-Mariya */,
-				6F27CABE2846791D00413C45 /* Products */,
+				6F27CA9F2840CC4B00413C45 /* pomidor */,
+				6F27CA9E2840CC4B00413C45 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6F27CABE2846791D00413C45 /* Products */ = {
+		6F27CA9E2840CC4B00413C45 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F27CABD2846791D00413C45 /* iOS6-HW12-Solodova-Mariya.app */,
+				6F27CA9D2840CC4B00413C45 /* pomidor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6F27CABF2846791D00413C45 /* iOS6-HW12-Solodova-Mariya */ = {
+		6F27CA9F2840CC4B00413C45 /* pomidor */ = {
 			isa = PBXGroup;
 			children = (
-				6F27CAC02846791D00413C45 /* AppDelegate.swift */,
-				6F27CAC22846791D00413C45 /* SceneDelegate.swift */,
-				6F27CAC42846791D00413C45 /* ViewController.swift */,
-				6F27CAC62846791D00413C45 /* Main.storyboard */,
-				6F27CAC92846791F00413C45 /* Assets.xcassets */,
-				6F27CACB2846791F00413C45 /* LaunchScreen.storyboard */,
-				6F27CACE2846791F00413C45 /* Info.plist */,
+				6F27CAA02840CC4B00413C45 /* AppDelegate.swift */,
+				6F27CAA22840CC4B00413C45 /* SceneDelegate.swift */,
+				6F27CAA42840CC4B00413C45 /* ViewController.swift */,
+				6F27CAA62840CC4B00413C45 /* Main.storyboard */,
+				6F27CAA92840CC4D00413C45 /* Assets.xcassets */,
+				6F27CAAB2840CC4D00413C45 /* LaunchScreen.storyboard */,
+				6F27CAAE2840CC4D00413C45 /* Info.plist */,
 			);
-			path = "iOS6-HW12-Solodova-Mariya";
+			path = pomidor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F27CABC2846791D00413C45 /* iOS6-HW12-Solodova-Mariya */ = {
+		6F27CA9C2840CC4B00413C45 /* pomidor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F27CAD12846791F00413C45 /* Build configuration list for PBXNativeTarget "iOS6-HW12-Solodova-Mariya" */;
+			buildConfigurationList = 6F27CAB12840CC4D00413C45 /* Build configuration list for PBXNativeTarget "pomidor" */;
 			buildPhases = (
-				6F27CAB92846791D00413C45 /* Sources */,
-				6F27CABA2846791D00413C45 /* Frameworks */,
-				6F27CABB2846791D00413C45 /* Resources */,
+				6F27CA992840CC4B00413C45 /* Sources */,
+				6F27CA9A2840CC4B00413C45 /* Frameworks */,
+				6F27CA9B2840CC4B00413C45 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "iOS6-HW12-Solodova-Mariya";
-			productName = "iOS6-HW12-Solodova-Mariya";
-			productReference = 6F27CABD2846791D00413C45 /* iOS6-HW12-Solodova-Mariya.app */;
+			name = pomidor;
+			productName = pomidor;
+			productReference = 6F27CA9D2840CC4B00413C45 /* pomidor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6F27CAB52846791D00413C45 /* Project object */ = {
+		6F27CA952840CC4B00413C45 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					6F27CABC2846791D00413C45 = {
+					6F27CA9C2840CC4B00413C45 = {
 						CreatedOnToolsVersion = 13.4;
 					};
 				};
 			};
-			buildConfigurationList = 6F27CAB82846791D00413C45 /* Build configuration list for PBXProject "iOS6-HW12-Solodova-Mariya" */;
+			buildConfigurationList = 6F27CA982840CC4B00413C45 /* Build configuration list for PBXProject "pomidor" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 6F27CAB42846791C00413C45;
-			productRefGroup = 6F27CABE2846791D00413C45 /* Products */;
+			mainGroup = 6F27CA942840CC4B00413C45;
+			productRefGroup = 6F27CA9E2840CC4B00413C45 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F27CABC2846791D00413C45 /* iOS6-HW12-Solodova-Mariya */,
+				6F27CA9C2840CC4B00413C45 /* pomidor */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6F27CABB2846791D00413C45 /* Resources */ = {
+		6F27CA9B2840CC4B00413C45 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F27CACD2846791F00413C45 /* LaunchScreen.storyboard in Resources */,
-				6F27CACA2846791F00413C45 /* Assets.xcassets in Resources */,
-				6F27CAC82846791D00413C45 /* Main.storyboard in Resources */,
+				6F27CAAD2840CC4D00413C45 /* LaunchScreen.storyboard in Resources */,
+				6F27CAAA2840CC4D00413C45 /* Assets.xcassets in Resources */,
+				6F27CAA82840CC4B00413C45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6F27CAB92846791D00413C45 /* Sources */ = {
+		6F27CA992840CC4B00413C45 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F27CAC52846791D00413C45 /* ViewController.swift in Sources */,
-				6F27CAC12846791D00413C45 /* AppDelegate.swift in Sources */,
-				6F27CAC32846791D00413C45 /* SceneDelegate.swift in Sources */,
+				6F27CAA52840CC4B00413C45 /* ViewController.swift in Sources */,
+				6F27CAA12840CC4B00413C45 /* AppDelegate.swift in Sources */,
+				6F27CAA32840CC4B00413C45 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		6F27CAC62846791D00413C45 /* Main.storyboard */ = {
+		6F27CAA62840CC4B00413C45 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6F27CAC72846791D00413C45 /* Base */,
+				6F27CAA72840CC4B00413C45 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		6F27CACB2846791F00413C45 /* LaunchScreen.storyboard */ = {
+		6F27CAAB2840CC4D00413C45 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				6F27CACC2846791F00413C45 /* Base */,
+				6F27CAAC2840CC4D00413C45 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		6F27CACF2846791F00413C45 /* Debug */ = {
+		6F27CAAF2840CC4D00413C45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		6F27CAD02846791F00413C45 /* Release */ = {
+		6F27CAB02840CC4D00413C45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +280,7 @@
 			};
 			name = Release;
 		};
-		6F27CAD22846791F00413C45 /* Debug */ = {
+		6F27CAB22840CC4D00413C45 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -288,7 +288,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS6-HW12-Solodova-Mariya/Info.plist";
+				INFOPLIST_FILE = pomidor/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -299,7 +299,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Mary.iOS6-HW12-Solodova-Mariya";
+				PRODUCT_BUNDLE_IDENTIFIER = Mary.pomidor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +307,7 @@
 			};
 			name = Debug;
 		};
-		6F27CAD32846791F00413C45 /* Release */ = {
+		6F27CAB32840CC4D00413C45 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -315,7 +315,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS6-HW12-Solodova-Mariya/Info.plist";
+				INFOPLIST_FILE = pomidor/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -326,7 +326,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Mary.iOS6-HW12-Solodova-Mariya";
+				PRODUCT_BUNDLE_IDENTIFIER = Mary.pomidor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -337,25 +337,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F27CAB82846791D00413C45 /* Build configuration list for PBXProject "iOS6-HW12-Solodova-Mariya" */ = {
+		6F27CA982840CC4B00413C45 /* Build configuration list for PBXProject "pomidor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F27CACF2846791F00413C45 /* Debug */,
-				6F27CAD02846791F00413C45 /* Release */,
+				6F27CAAF2840CC4D00413C45 /* Debug */,
+				6F27CAB02840CC4D00413C45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F27CAD12846791F00413C45 /* Build configuration list for PBXNativeTarget "iOS6-HW12-Solodova-Mariya" */ = {
+		6F27CAB12840CC4D00413C45 /* Build configuration list for PBXNativeTarget "pomidor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F27CAD22846791F00413C45 /* Debug */,
-				6F27CAD32846791F00413C45 /* Release */,
+				6F27CAB22840CC4D00413C45 /* Debug */,
+				6F27CAB32840CC4D00413C45 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6F27CAB52846791D00413C45 /* Project object */;
+	rootObject = 6F27CA952840CC4B00413C45 /* Project object */;
 }
