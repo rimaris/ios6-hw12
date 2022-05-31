@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  iOS6-HW12-Solodova-Mariya
+//  pomidor
 //
-//  Created by Мария Солодова on 31.05.2022.
+//  Created by Мария Солодова on 27.05.2022.
 //
 
 import UIKit
